@@ -1,0 +1,6 @@
+# Ignorovať virtuálne prostredie
+venv/
+# Ignorovať všetky databázové súbory SQLite
+*.sqlite
+# Ignorovať potenciálne súbory s heslami/kľúčmi
+secrets.py
